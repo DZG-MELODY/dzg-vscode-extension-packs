@@ -1,0 +1,29 @@
+{
+    "name": "vscode-dzg-extension-packs-workflow",
+    "displayName": "dzg-extension-packs-workflow",
+    "version": "0.0.1",
+    "description": "dzg extension packs for workflow",
+    "icon": "images/icon.png",
+    "publisher": "dzgmelody",
+    "author": "dzg_melody",
+    "license": "ISC",
+    "engines": {
+        "vscode": "^1.65.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [
+        "eamodio.gitlens",
+        "alefragnani.bookmarks",
+        "alefragnani.project-manager",
+        "davidanson.vscode-markdownlint",
+        "yzhang.markdown-all-in-one",
+        "visualstudioexptteam.vscodeintellicode",
+        "streetsidesoftware.code-spell-checker"
+    ],
+    "scripts": {
+        "build": "vsce package",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    }
+}

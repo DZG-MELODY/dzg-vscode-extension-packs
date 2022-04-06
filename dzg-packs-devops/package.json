@@ -1,0 +1,29 @@
+{
+    "name": "vscode-dzg-packs-web",
+    "displayName": "dzg-packs-web",
+    "version": "0.0.1",
+    "description": "dzg packs for web",
+    "icon": "images/icon.png",
+    "publisher": "dzgmelody",
+    "author": "dzg_melody",
+    "engines": {
+        "vscode": "^1.65.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [
+        "dbaeumer.vscode-eslint",
+        "kisstkondoros.vscode-gutter-preview",
+        "ionutvmi.path-autocomplete",
+        "jasonnutter.search-node-modules",
+        "jock.svg",
+        "pflannery.vscode-versionlens",
+        "yzhang.markdown-all-in-one",
+        "davidanson.vscode-markdownlint"
+    ],
+    "scripts": {
+        "build": "vsce package",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    }
+}

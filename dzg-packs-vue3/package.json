@@ -1,0 +1,29 @@
+{
+    "name": "vscode-dzg-extension-packs-vue3",
+    "displayName": "dzg-extension-packs-vue3",
+    "version": "0.0.1",
+    "description": "dzg extension packs for vue3 developing",
+    "icon": "images/icon.png",
+    "publisher": "dzgmelody",
+    "author": "dzg_melody",
+    "engines": {
+        "vscode": "^1.65.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [
+        "johnsoncodehk.volar",
+        "dbaeumer.vscode-eslint",
+        "kisstkondoros.vscode-gutter-preview",
+        "ionutvmi.path-autocomplete",
+        "jasonnutter.search-node-modules",
+        "jock.svg",
+        "pflannery.vscode-versionlens",
+        "ritwickdey.liveserver"
+    ],
+    "scripts": {
+        "build": "vsce package",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    }
+}
