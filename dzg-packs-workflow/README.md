@@ -4,11 +4,10 @@
 
 extensions list:
 
-- dbaeumer.vscode-eslint
-- kisstkondoros.vscode-gutter-preview
-- ionutvmi.path-autocomplete
-- jasonnutter.search-node-modules
-- jock.svg
-- pflannery.vscode-versionlens
-- yzhang.markdown-all-in-one
+- eamodio.gitlens
+- alefragnani.bookmarks
+- alefragnani.project-manager
 - davidanson.vscode-markdownlint
+- yzhang.markdown-all-in-one
+- visualstudioexptteam.vscodeintellicode
+- streetsidesoftware.code-spell-checker

@@ -1,1 +1,1 @@
-# extension pack of dzg for web develop 
+# extension pack of dzg for golang developing 

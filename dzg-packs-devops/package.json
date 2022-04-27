@@ -1,11 +1,13 @@
 {
-    "name": "vscode-dzg-packs-web",
-    "displayName": "dzg-packs-web",
+    "name": "vscode-dzg-extension-packs-devops",
+    "displayName": "dzg-extension-packs-devops",
     "version": "0.0.1",
-    "description": "dzg packs for web",
+    "description": "dzg packs for devops",
     "icon": "images/icon.png",
     "publisher": "dzgmelody",
     "author": "dzg_melody",
+    "license": "MIT",
+    "repository": "https://github.com/DZG-MELODY/dzg-vscode-extension-packs.git",
     "engines": {
         "vscode": "^1.65.0"
     },
@@ -13,14 +15,11 @@
         "Extension Packs"
     ],
     "extensionPack": [
-        "dbaeumer.vscode-eslint",
-        "kisstkondoros.vscode-gutter-preview",
-        "ionutvmi.path-autocomplete",
-        "jasonnutter.search-node-modules",
-        "jock.svg",
-        "pflannery.vscode-versionlens",
-        "yzhang.markdown-all-in-one",
-        "davidanson.vscode-markdownlint"
+        "remisa.shellman",
+        "hykin.better-shellscript-syntax",
+        "ms-azuretools.vscode-docker",
+        "ms-kubernetes-tools.vscode-kubernetes-tools",
+        "ipedrazas.kubernetes-snippets"
     ],
     "scripts": {
         "build": "vsce package",

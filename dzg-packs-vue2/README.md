@@ -11,5 +11,4 @@ extensions list:
 - jasonnutter.search-node-modules
 - jock.svg
 - pflannery.vscode-versionlens
-- yzhang.markdown-all-in-one
-- davidanson.vscode-markdownlint
+- ritwickdey.liveserver

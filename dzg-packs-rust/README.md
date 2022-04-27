@@ -1,14 +1,14 @@
-# dzg-packs-web
+# dzg-extension-packs-rust
 
-## extension packs for web developing (JS/TS language)
+## extension packs for rust
 
 extensions list:
 
-- dbaeumer.vscode-eslint
-- kisstkondoros.vscode-gutter-preview
-- ionutvmi.path-autocomplete
-- jasonnutter.search-node-modules
-- jock.svg
-- pflannery.vscode-versionlens
-- yzhang.markdown-all-in-one
-- davidanson.vscode-markdownlint
+- vadimcn.vscode-lldb
+- serayuzgur.crates
+- usernamehw.errorlens
+- tamasfe.even-better-toml
+- dustypomerleau.rust-syntax
+- hdevalke.rust-test-lens
+- matklad.rust-analyzer
+- tabnine.tabnine-vscode

@@ -1,1 +1,1 @@
-# extension pack of dzg for vue developing
+# extension pack of dzg for vue2 developing

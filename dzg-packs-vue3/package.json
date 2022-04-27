@@ -6,6 +6,8 @@
     "icon": "images/icon.png",
     "publisher": "dzgmelody",
     "author": "dzg_melody",
+    "license": "MIT",
+    "repository": "https://github.com/DZG-MELODY/dzg-vscode-extension-packs.git",
     "engines": {
         "vscode": "^1.65.0"
     },

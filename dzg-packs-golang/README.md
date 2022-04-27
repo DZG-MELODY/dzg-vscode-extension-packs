@@ -1,14 +1,8 @@
-# dzg-packs-web
+# dzg-extension-packs-golang
 
-## extension packs for web developing (JS/TS language)
+## extension packs for golang
 
 extensions list:
 
-- dbaeumer.vscode-eslint
-- kisstkondoros.vscode-gutter-preview
-- ionutvmi.path-autocomplete
-- jasonnutter.search-node-modules
-- jock.svg
-- pflannery.vscode-versionlens
-- yzhang.markdown-all-in-one
-- davidanson.vscode-markdownlint
+- golang.go
+- premparihar.gotestexplorer
