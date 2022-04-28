@@ -16,7 +16,8 @@
     ],
     "extensionPack": [
         "golang.go",
-        "premparihar.gotestexplorer"
+        "premparihar.gotestexplorer",
+        "redhat.vscode-yaml"
     ],
     "scripts": {
         "build": "vsce package",
